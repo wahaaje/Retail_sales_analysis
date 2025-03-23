@@ -115,14 +115,14 @@ SELECT COUNT(DISTINCT(category)) as total_categories
 FROM retail_sales;
 ```
 
-4. **Q.1 Write a query to retrive all columns for sales made on '2022-11-05'**:
+4. ** Write a query to retrive all columns for sales made on '2022-11-05'**:
 ```sql
  SELECT  *
  FROM retail_sales
  WHERE sale_date = '2022-11-05';
 ```
 
-5. ** Q.2 Write a SQL query  to retrieve all transactions where the category is 'clothing' and the quantity sold is mre than 10 in the month of Nov-2022?**:
+5. ** Write a SQL query  to retrieve all transactions where the category is 'clothing' and the quantity sold is mre than 10 in the month of Nov-2022?**:
 ```sql
 SELECT *
  FROM retail_sales
