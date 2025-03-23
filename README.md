@@ -216,7 +216,7 @@ The number of unique product categories offered was identified.
 - **Sales Analysis**:
 
 Specific sales transactions made on '2022-11-05' were retrieved.
-Transactions involving 'clothing' category with quantity greater than or equal to 4 in November 2022 were identified. (You had quantiy >= 4, I assume that was intended)
+Transactions involving 'clothing' category with quantity greater than or equal to 4 in November 2022 were identified.
 Total sales for each product category were calculated.
 Average age of customers purchasing 'beauty' category items was determined.
 Transactions with total sales exceeding 1000 were listed.
